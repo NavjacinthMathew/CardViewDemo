@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardView Demo</string>
+    <string name="card_view_title">Card View Title</string>
+    <string name="content_for_the_cardview">Content for the CardView</string>
+</resources>
